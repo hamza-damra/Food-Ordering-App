@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Ordering</string>
+    <string name="what_do_you_want_eat_today">What do you want eat today</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="hamza_damra">Hamza Damra</string>
+</resources>

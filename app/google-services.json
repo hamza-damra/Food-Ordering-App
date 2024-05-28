@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749867109721",
+    "project_id": "iconic-guard-390621",
+    "storage_bucket": "iconic-guard-390621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749867109721:android:e78006861017a88905d048",
+        "android_client_info": {
+          "package_name": "com.example.foodordering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvkTMhAuPPAe8jyNrktqaDmsDU0mnHRRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
